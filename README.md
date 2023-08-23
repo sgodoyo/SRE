@@ -1,2 +1,0 @@
-# SRE
-Competencias Tecnicas DevSecOps
